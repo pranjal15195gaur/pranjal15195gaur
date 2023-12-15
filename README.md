@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal15195gaur&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal15195gaur" /> </p>
 
-- 🌱 I’m currently learning **Frameworks , Machine learning algorithms and Web Development**
+- 🌱 I’m currently learning **Frameworks and Machine learning algorithms **
 
-- 👯 I’m looking to collaborate on **projects of machine learning and web development**
+- 👯 I’m looking to collaborate on **projects of machine learning**
 
 - 📫 How to reach me **pranjal.gaur@iitgn.ac.in**
 
